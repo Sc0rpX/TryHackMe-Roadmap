@@ -24,9 +24,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **2**      |           **1**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **8**      |           **3**           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
+| **[Reconnaissance](#recon)**                      |     **10**      |           **2**           |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
+| **[Networking](#networking)**                     |      **5**      |           **3**           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
@@ -156,15 +156,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+✅ [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+✅ [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
-
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
-
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+✅ [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -210,9 +206,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+✅ [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+✅ [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
@@ -240,7 +236,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
+✅ [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
 - [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
 
