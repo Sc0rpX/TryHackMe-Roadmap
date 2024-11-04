@@ -20,7 +20,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **8**       |           **7**           |
+| ✅**[Introductory Rooms](#intro-rooms)**          |      **8**      |           **8**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **2**      |           **1**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **8**      |           **3**           |
@@ -66,7 +66,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ✅ [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+✅ [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
