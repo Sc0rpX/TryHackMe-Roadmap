@@ -24,7 +24,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **2**      |           **1**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **8**      |           **3**           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
+| **[Reconnaissance](#recon)**                      |     **10**      |           **1**           |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
 | **[Networking](#networking)**                     |      **5**      |           **3**           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
@@ -110,7 +110,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+✅ [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
