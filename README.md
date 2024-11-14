@@ -24,7 +24,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **2**      |           **1**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **8**      |           **3**           |
-| **[Reconnaissance](#recon)**                      |     **10**      |           **2**           |
+| **[Reconnaissance](#recon)**                      |     **8**       |           **3**           |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
 | **[Networking](#networking)**                     |      **5**      |           **3**           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
@@ -114,9 +114,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ✅ [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
-
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+✅ [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
@@ -125,8 +123,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-
-- [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
